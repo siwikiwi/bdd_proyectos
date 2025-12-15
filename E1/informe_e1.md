@@ -3,7 +3,7 @@
 ### Datos del Alumno
 | **Apellidos**       | **Nombres**          | **Número de Alumno** |
 |---------------------|----------------------|----------------------|
-|ULLOA LANDEROS       | VANIA DEL PILAR      |22657541            |
+|ULLOA       | VANIA |111111111111           |
 
 ### 1. Modelo Entidad-Relación (E/R)
 <!-- Inserta aquí tu diagrama ER. Usa el formato svg para evitar la perdida de calidad. Reemplaza "diagrama.svg" por la ruta a tu archivo -->
